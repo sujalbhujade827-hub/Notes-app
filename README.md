@@ -14,15 +14,3 @@ A sleek, responsive, single-page note-taking web application built using Python,
 * **Design Reference:** Figma Custom Wireframe
 
 ---
-
-##  Local Setup Instructions
-
-Follow these instructions to run the web dashboard locally on your machine:
-
-### 1. Prerequisites
-Ensure you have Python installed on your computer.
-
-### 2. Clone the Repository
-```bash
-git clone [https://github.com/sujalbhujade827-hub/Notes-app.git](https://github.com/sujalbhujade827-hub/Notes-app.git)
-cd Notes-app
